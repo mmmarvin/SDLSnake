@@ -5,7 +5,7 @@ A Snake clone written in C and using the SDL Graphics Library
 
 #Controls:
 =================
-Arrow Keys - Move Snake to direction
+Arrow Keys - Move Snake to direction<br>
 Space Bar - New Game
 	
 #Screenshot:
